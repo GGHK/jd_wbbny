@@ -20,7 +20,7 @@ task_times = 3
 #间隔时间，默认在任务所需的基础上加，一般设置2s左右就成，看自己
 sleep_times = 2
 
-Cookies = [pt_key=AAJgxHDmADDUFWS-ZoQ4Fh-M5sFouG4L4hYAO5YBUH7yP5XpoQtchHSFnJKpEjiTxNQdwgdMJyQ; pt_pin=15364239578_p; ]
+Cookies = []
 try:
     with open('ck.txt','r', encoding='utf-8') as ef:
         for i in ef:
